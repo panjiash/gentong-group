@@ -48,3 +48,41 @@ php artisan serve
 ```
 
 Setelah dijalankan maka server aplikasi akan berjalan di port 8000
+
+## Login Akun
+
+#### PT XYZ
+
+##### admin pt xyz
+
+-   email: admin@ptxyz.com
+-   password: admin
+
+##### Manager PT XYZ
+
+-   email: manager@ptxyz.com
+-   password: manager
+
+#### PT XYZ 1
+
+##### admin pt xyz 1
+
+-   email: admin@ptxyz1.com
+-   password: admin
+
+##### supervisor pt xyz 1
+
+-   email: supervisor@ptxyz1.com
+-   password: supervisor
+
+#### PT XYZ 2
+
+##### admin pt xyz 2
+
+-   email: admin@ptxyz2.com
+-   password: admin
+
+##### supervisor pt xyz 1
+
+-   email: supervisor@ptxyz2.com
+-   password: supervisor
